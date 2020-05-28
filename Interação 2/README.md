@@ -8,7 +8,7 @@
 > Equipe responsável por pesquisar e desenvolver a solução de interação do fatequino com alunos,professores funcionarios e visitantes.
 
 
-☝️## Requisitos:
+## Requisitos:☝️
 - Comunicação do Raspberry com celulares via WIFI;
 - Desenvolvimento de app para Android para comunicação;
 - Integração com o software de visão computacional para reconhecimento prévio de alunos, professores, e funcionários;
