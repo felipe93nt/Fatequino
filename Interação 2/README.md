@@ -13,18 +13,16 @@
 - Desenvolvimento de app para Android para comunicação;
 - Integração com o software de visão computacional para reconhecimento prévio de alunos, professores, e funcionários;
 
-### 🏠 [Homepage](https://fatequino.com.br/construcao-do-fatequino/interacao/)
+### 🏠 [Página inicial](https://fatequino.com.br/construcao-do-fatequino/interacao/)
 
 
 ```sh
-Verificar documentações
+Verificar documentações no Drive em **Documentação** para mais informações
 ```
 
-## Author
+## Autores
 
 👤 **Equipe de Interação 2**
-
-Give a ⭐️ if this project helped you!
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
