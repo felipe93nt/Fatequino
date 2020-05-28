@@ -1,7 +1,7 @@
-<h1 align="center">Welcome to Interação 2 👋</h1>
+<h1 align="center">Bem vindo à Interação 2 👋</h1>
 <p>
   <a href="https://drive.google.com/drive/folders/1vMmdR_w9nzmovm2YNCHiq_UOCbGeY-M_" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+    <img alt="Documentação" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
 </p>
 
@@ -15,7 +15,6 @@
 
 ### 🏠 [Homepage](https://fatequino.com.br/construcao-do-fatequino/interacao/)
 
-## Install
 
 ```sh
 Verificar documentações
