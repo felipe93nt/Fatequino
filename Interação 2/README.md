@@ -17,7 +17,7 @@
 
 
 ```sh
-Verificar documentações no Drive em **Documentação** para mais informações
+Verificar documentações no Drive em <strong>Documentação</strong> para mais informações
 ```
 
 ## Autores
